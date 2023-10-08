@@ -1,28 +1,46 @@
-# Título do Projeto: Movie Recommendation System With Python And Pandas: Data Project 
-### Universisdade Federal do Rio Grande do Norte - Departamento de Engenharia da Computação e Automação (DCA) 
-### Author: Henrique Hideaki Koga 2022044055
-Movie Recommendation System With Python And Pandas: Data Project
+
+# Movie Recommendation System With Python And Pandas: Data Project
+
+## Autor
+Henrique Hideaki Koga  
+Matrícula: 2022044055  
+Universidade Federal do Rio Grande do Norte  
+Departamento de Engenharia da Computação e Automação (DCA)
+
 ## Introdução
 
-Este repositório é dedicado ao projeto MLOps2023, um esforço para melhorar e automatizar os processos em Machine Learning. Aqui, focamos em práticas e técnicas que asseguram a entrega eficaz e eficiente de modelos de Machine Learning em produção.
+Este repositório contém o projeto "Movie Recommendation System With Python And Pandas", que busca desenvolver um sistema de recomendação de filmes utilizando a linguagem de programação Python e a biblioteca Pandas.
 
 ## Descrição do Projeto
 
-O projeto MLOps2023 visa criar um pipeline robusto e escalável para treinamento, validação e implantação de modelos de Machine Learning. Utilizamos uma variedade de ferramentas e práticas para garantir a qualidade e a performance dos modelos, bem como a reproducibilidade e a rastreabilidade de cada experimento.
+O sistema de recomendação de filmes foi criado para fornecer sugestões de filmes aos usuários com base em determinados critérios. Utilizando Python e Pandas, o projeto analisa e processa dados relacionados a filmes e avaliações para gerar recomendações relevantes.
 
 ## Requisitos/Tecnologias
 
-- **Python**: Linguagem de programação principal usada para desenvolvimento de modelos e scripts.
-- **Pandas**: Para manipulação de dados.
-- **Scikit-learn**: Para modelagem e avaliação de Machine Learning.
-- **Docker**: Para containerização e implantação.
-- **Git & GitHub**: Para controle de versão e colaboração.
-
-(Adicione outras tecnologias e ferramentas conforme necessário.)
+- **Python**: Linguagem de programação principal usada para desenvolvimento.
+- **Pandas**: Biblioteca Python para manipulação e análise de dados.
 
 ## Instruções de Instalação
 
 1. Clone o repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/HenriqueHideaki/mlops2023.git
+git clone [link_do_repositório]
+```
+
+2. Navegue até a pasta do projeto:
+
+```bash
+cd [nome_da_pasta_do_projeto]
+```
+
+3. Instale as dependências:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Referências
+
+- [Documentação Oficial do Pandas](https://pandas.pydata.org/docs/)
+- [Tutorial de Sistemas de Recomendação com Python](#) (Substitua com um link relevante, se aplicável)
