@@ -1,13 +1,6 @@
-"""
-Movie Recommendation System With Python And Pandas: Data Project
-Universisdade Federal do Rio Grande do Norte - Departamento de Engenharia da Computação e Automação (DCA) 
-Author: Henrique Hideaki Koga 2022044055
-
-"""
-
-
-
-# Título do Projeto: 
+# Título do Projeto: Movie Recommendation System With Python And Pandas: Data Project 
+### Universisdade Federal do Rio Grande do Norte - Departamento de Engenharia da Computação e Automação (DCA) 
+### Author: Henrique Hideaki Koga 2022044055
 Movie Recommendation System With Python And Pandas: Data Project
 ## Introdução
 
