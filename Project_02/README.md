@@ -37,6 +37,29 @@ The platform offers a range of functionalities, from searching and storing podca
     ```
     pip install -r requirements.txt
     ```
+## Functions Overview
+
+### `podcast_summary()`
+This is the main DAG function. It orchestrates the execution order of various tasks that fetch, store, download, and transcribe podcast episodes.
+
+### `get_episodes()`
+- **Purpose**: Fetch the list of podcast episodes from the given `PODCAST_URL`.
+- **Output**: Returns a list of episodes with their respective details.
+
+### `load_episodes(episodes)`
+- **Purpose**: Store new podcast episodes in a SQLite database.
+- **Input**: List of episodes to check against the database and store if they are new.
+- **Output**: Returns a list of new episodes that were stored in the database.
+
+### `download_episodes(episodes)`
+- **Purpose**: Download the audio files of the provided podcast episodes.
+- **Input**: List of episodes to download.
+- **Output**: Returns a list of filenames that were successfully downloaded.
+
+### `speech_to_text(audio_files)`
+- **Purpose**: Transcribe the audio of podcast episodes into text.
+- **Input**: List of audio files to transcribe.
+- **Note**: The function uses the Vosk library for transcription and stores the transcriptions back into the SQLite database.
 
 ## How to Use
 
