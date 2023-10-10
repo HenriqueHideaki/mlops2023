@@ -101,7 +101,7 @@ Since the last analysis, there has been a notable improvement in the code score,
 </a>
 
 <a href="https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_02/airflow_dag.jpg">
-    <img src=https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_02/airflow_dag.jpg" alt="airflow" width="700"/>
+    <img src="https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_02/airflow_dag.jpg" alt="airflow" width="700"/>
 </a>
 
 ## How to Use
