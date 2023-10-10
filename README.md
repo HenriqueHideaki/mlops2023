@@ -24,11 +24,22 @@
 - Case Studies in System Integration with Machine Learning Models
 
 **Projects**
-- *Movie Recommendation System With Python And Pandas: Data Project*
+**Movie Recommendation System With Python And Pandas: Data Project**
   - This project involves creating a movie recommendation system using Python and Pandas. It focuses on collecting and analyzing movie data to provide personalized recommendations to users based on their preferences and viewing history.
 
-- *Airflow Data Pipeline for Podcast Downloads*
-  - In addition to the core projects, students will have the opportunity to work on a real-world data engineering project inspired by "Build an Airflow Data Pipeline to Download Podcasts." This project involves building a four-step data pipeline using Apache Airflow, a popular Python-based data engineering tool. The pipeline will download podcast episodes and store them in an easily queryable SQLite database. Through this project, students will gain practical experience in building data pipelines, scheduling tasks, handling errors, and parallelizing tasks using Airflow. They will also have the chance to extend the project by adding features like speech recognition and summaries, further enhancing their skills in data engineering.
+**Apache Airflow Podcast Data Pipeline Project**
+
+The aim of this project is to create a four-stage data pipeline using Apache Airflow to automate the collection, storage, and transcription of podcast episodes.
+
+**Episode Collection:** Episodes are fetched from a podcast feed through HTTP requests and parsed into Python data.
+
+**Episode Loading:** New episodes are identified and inserted into a SQLite database for further processing.
+
+**Episode Download:** The identified new episodes are downloaded from the web and stored locally as audio files.
+
+**Speech-to-Text Transcription:** The downloaded episodes are transcribed using a speech recognition model, and the transcriptions are stored in the database.
+
+This project provides a hands-on opportunity to build skills in data engineering, task scheduling, error handling, and using Apache Airflow.
 
 **Important Practices to Follow**
 - **Code Refactoring**: Refactoring is not just a one-time activity but an ongoing process. Well-refactored code is easier to understand, debug, and maintain. We strongly encourage you to refactor your code as you progress with your projects.
