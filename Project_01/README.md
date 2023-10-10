@@ -40,24 +40,24 @@ By interacting with this project, users can experience how recommendation algori
 Embark on this cinematic discovery journey with the "Movie Recommendation System with Python and Pandas" and explore a world of movies that cater to your personal preferences.
 
 ## Pylint
-# Code Improvements Documentation
+### Code Improvements Documentation
 
-## Docstrings Added
+### Docstrings Added
 For each function, docstrings have been added. Docstrings are documentation strings embedded directly in the Python source code and provide a clear and concise description of the function's purpose. This helps other developers (and even yourself in the future) understand what each function does without having to sift through the source code.
 
-## Long Line Breakdown
+### Long Line Breakdown
 Long lines have been broken down to ensure they don't exceed recommended character limits (typically 79-100 characters per line). The breakdown was done using parentheses and backslashes to enhance readability.
 
-## Descriptive Variable Names
+### Descriptive Variable Names
 Variable names have been changed to be more descriptive, reflecting the content of the variable. This makes the code more comprehensible to anyone reading the code for the first time.
 
-## Eliminated Code Redundancy
+### Eliminated Code Redundancy
 Redundant logic was removed, and where applicable, encapsulated into separate functions. This promotes code reuse and facilitates maintenance.
 
-## Main Function Added
+### Main Function Added
 The code was encapsulated within a main function called `main()`. This is a common practice in Python. The `if __name__ == "__main__":` block ensures that the code inside the `main()` function only gets executed when the script is run directly, not when it's imported as a module into another script.
 
-## Explanatory Comments Added
+### Explanatory Comments Added
 In addition to the docstrings, explanatory comments were added in critical parts of the code to provide additional understanding about what's happening in certain code segments.
 
 These improvements not only make the code more readable for other developers but also simplify maintaining and understanding the code in the future. The code is now more organized, documented, and adheres to Python style conventions, which is essential for collaborative development and maintaining a sustainable codebase.
