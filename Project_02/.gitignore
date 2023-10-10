@@ -1,0 +1,28 @@
+# Diretório dags
+dags/*.pyc       # Ignora arquivos .pyc no diretório dags
+dags/__pycache__ # Ignora o diretório __pycache__ no diretório dags
+dags/*.log       # Ignora arquivos .log no diretório dags (caso existam logs dentro deste diretório)
+
+# Arquivo PID do Airflow
+airflow-webserver.pid
+
+# Arquivos comuns do Python e de ambientes de desenvolvimento
+*.pyc
+__pycache__/
+*.log
+*.egg-info/
+dist/
+build/
+*.swp      # Arquivos temporários do Vim
+.idea/     # Diretório de configurações do PyCharm
+.vscode/   # Diretório de configurações do VS Code
+*.env      # Arquivos de variáveis de ambiente
+.pylintrc 
+episodes
+
+# Bancos de dados e arquivos relacionados
+*.db
+# Ambientes virtuais
+new_venv/
+venv/
+
