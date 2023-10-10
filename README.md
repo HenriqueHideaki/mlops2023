@@ -24,12 +24,12 @@
 - Case Studies in System Integration with Machine Learning Models
 
 # Projects
-**Movie Recommendation System With Python And Pandas: Data Project**
+## Movie Recommendation System With Python And Pandas: Data Project
   - This project involves creating a movie recommendation system using Python and Pandas. It focuses on collecting and analyzing movie data to provide personalized recommendations to users based on their preferences and viewing history.
 
-**Apache Airflow Podcast Data Pipeline Project**
+## Apache Airflow Podcast Data Pipeline Project
 
-The aim of this project is to create a four-stage data pipeline using Apache Airflow to automate the collection, storage, and transcription of podcast episodes.
+- The aim of this project is to create a four-stage data pipeline using Apache Airflow to automate the collection, storage, and transcription of podcast episodes.
 
 **Episode Collection:** Episodes are fetched from a podcast feed through HTTP requests and parsed into Python data.
 
