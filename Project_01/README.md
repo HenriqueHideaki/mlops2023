@@ -1,4 +1,3 @@
-
 # Movie Recommendation System With Python And Pandas: Data Project
 <a href="https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_01/movie_recomendation.png">
     <img src="https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_01/movie_recomendation.png" alt="Movie Recommendation System" width="500"/>
