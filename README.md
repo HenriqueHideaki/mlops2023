@@ -1,45 +1,53 @@
-## DCA0305 - PROJETO DE SISTEMAS BASEADOS EM APRENDIZADO DE MÁQUINA
+# DCA0305 - MACHINE LEARNING-BASED SYSTEMS DESIGN
 
-**Carga Horária:** 60 horas
+### Student Information
 
-**Unidade Responsável:** DEPARTAMENTO DE ENGENHARIA DE COMPUTACAO E AUTOMACAO
+**Student:** Henrique Hideaki Koga
 
-**Tipo do Componente:** DISCIPLINA
+**Registration Number:** 2022044055
 
-**Ementa:** Ciclo de vida do desenvolvimento para uma aplicação de aprendizado de máquina. Seleção e treinamento de modelos. Definição de dados e modelos de referência. Construção de fluxos para a coleta, limpeza, validação, avaliação e monitoramento da qualidade de dados e dos modelos de aprendizado de máquina. Desenvolvimento de estudos de casos.
+**Course Overview**
+- Course Code: DCA0305
+- Credit Hours: 60 hours
+- Responsible Unit: Department of Computer Engineering and Automation
+- Course Type: Discipline
 
-**Modalidade:** Presencial
+**Syllabus**
+- Machine Learning Development Lifecycle
+- Data Preparation, Feature Engineering, and Model Selection
+- Data and Reference Models Definition
+- Data and Model Quality Assessment, Monitoring
+- Data and Model Quality Assessment, Monitoring
+- Model Update Algorithms
+- Model Personalization Solutions
+- Scaling Machine Learning Models in Production
+- Case Studies in System Integration with Machine Learning Models
 
-## Dados do Programa
+**Projects**
+- *Movie Recommendation System With Python And Pandas: Data Project*
+  - This project involves creating a movie recommendation system using Python and Pandas. It focuses on collecting and analyzing movie data to provide personalized recommendations to users based on their preferences and viewing history.
 
-**Ano-Período:** 2023.2
+- *Airflow Data Pipeline for Podcast Downloads*
+  - In addition to the core projects, students will have the opportunity to work on a real-world data engineering project inspired by "Build an Airflow Data Pipeline to Download Podcasts." This project involves building a four-step data pipeline using Apache Airflow, a popular Python-based data engineering tool. The pipeline will download podcast episodes and store them in an easily queryable SQLite database. Through this project, students will gain practical experience in building data pipelines, scheduling tasks, handling errors, and parallelizing tasks using Airflow. They will also have the chance to extend the project by adding features like speech recognition and summaries, further enhancing their skills in data engineering.
 
-**Objetivos:** Apresentar os conceitos relacionados ao desenvolvimento de sistemas baseados em aprendizado de máquina, incluindo o ciclo de vida e fluxo de preparação dos dados, seleção, treinamento e personalização de modelos.
+**Important Practices to Follow**
+- **Code Refactoring**: Refactoring is not just a one-time activity but an ongoing process. Well-refactored code is easier to understand, debug, and maintain. We strongly encourage you to refactor your code as you progress with your projects.
+- **Clean Code Principles**: Writing clean code is essential for the long-term maintainability of your projects. Follow principles like DRY (Don't Repeat Yourself) and KISS (Keep It Simple) to make your code more effective and easier to understand.
+- **Linting**: A linting score of at least 9/10 is required for this assignment. Utilize tools like pylint to analyze your code and adhere to best practices.
+- **Exception Handling**: Proper exception handling can make your code robust and easier to debug. Use Python’s try, except, and finally blocks to catch and handle exceptions gracefully.
+- **Logging**: Include logging in your projects to capture runtime information, which can be invaluable for debugging and monitoring your code's behavior. Use Python’s built-in logging library to include logs at various levels such as INFO, DEBUG, and ERROR.
+- **Unit Testing**: The inclusion of unit tests is mandatory. Tests validate that your code works as expected and make it easier for future you or other developers to change the code with confidence.
+- **GitHub Codespaces**: Leverage GitHub Codespaces for prototyping and initial development. Codespaces provide a complete, configurable dev environment that allows you to code directly within GitHub.
+- **Command Line Interface (CLI)**: Implement a Command Line Interface to allow users to interact with your project easily. This is crucial as it offers a versatile way of running different functionalities and options in your code.
 
-**Aluno:** Henrique Hideaki Koga
+**Prerequisites**
+- Python 3.8+
+- Airflow 2.3+
+- Pandas: `pip install pandas`
+- sqlite3: follow these instructions
+- xmltodict: `pip install xmltodict`
+- requests: `pip install requests`
 
-**Número de Registro:** 2022044055
+*Note: You will run the code on your local machine, so you need to set up your computer properly and install the necessary packages.*
 
-**Conteúdo:**
-
-1. Introdução ao aprendizado de máquina: dos algoritmos rasos ao aprendizado profundo.
-2. Criação de fluxos para coleta, limpeza e preparação de dados.
-3. Estudo e implementação de melhores práticas para avaliação e monitoramento da qualidade de dados e modelos de aprendizado de máquina.
-4. Algoritmos para atualização de modelos.
-5. Soluções para personalização de modelos.
-6. Escalando modelos de aprendizado de máquina em produção.
-7. Estudo de caso na integração de sistemas com modelos de aprendizado de máquina.
-
-**Projetos Relacionados:**
-
-- **Movie Recommendation System With Python And Pandas: Data Project**
-  - Desenvolvimento de um sistema de recomendação de filmes utilizando Python e Pandas.
-  
-- **Build a Movie Recommendation System in Python**
-  - Construção de um sistema de recomendação de filmes em Python.
-
-**Tipo de material:**
-
-**Livro** - Chris Fregly, Antje Barth. *Data Science on AWS*. O'Reilly Media, Inc., 2021
-
-**Livro** - Laurence Moroney. *AI and Machine Learning for On-Device Development*. O'Reilly Media, Inc., 2021
+This course offers valuable insights into machine learning-based systems design and equips students with essential skills for building, maintaining, and deploying machine learning models in real-world scenarios. By the end of this course, students will have the knowledge and hands-on experience needed to excel in the field of machine learning-based systems design.
