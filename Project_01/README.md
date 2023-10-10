@@ -1,6 +1,6 @@
 
 # Movie Recommendation System With Python And Pandas: Data Project
-[https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_01/movie_recomendation.png](movie_recomendation_system)
+![https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_01/movie_recomendation.png](movie_recomendation_system)
 ## Author
 Henrique Hideaki Koga  
 Registration Number: 2022044055  
