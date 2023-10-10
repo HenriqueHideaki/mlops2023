@@ -88,10 +88,10 @@ This is the main DAG function. It orchestrates the execution order of various ta
 - **Missing Arguments (E1120)**: The `episodes` argument is missing in function calls.
 
 ### Overall Score
-The code received a score of 5.52/10 from pylint, showing an improvement from the previous score of 2.76/10.
+The code received a score of 5.52/10 from pylint, showing an improvement from the previous score of 2.36/10.
 
 ### Notes on Improvements
-Since the last analysis, there has been a notable improvement in the code score, moving from 2.76 to 5.52. This suggests that several previously identified issues have been addressed and rectified. Enhancements in style, formatting, and error correction contributed to this uplift. Continuing to use tools like pylint regularly will help maintain and further improve code quality. The recommendation is to keep reviewing and refactoring the code to address any remaining issues and to always strive to adopt best coding practices.
+Since the last analysis, there has been a notable improvement in the code score, moving from 2.36 to 5.52. This suggests that several previously identified issues have been addressed and rectified. Enhancements in style, formatting, and error correction contributed to this uplift. Continuing to use tools like pylint regularly will help maintain and further improve code quality. The recommendation is to keep reviewing and refactoring the code to address any remaining issues and to always strive to adopt best coding practices.
 <a href="https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_02/airflow__pylint_01.jpg">
     <img src="https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_02/airflow__pylint_01.jpg" alt="airflow" width="500"/>
 </a>
