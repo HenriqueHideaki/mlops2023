@@ -31,13 +31,13 @@
 
 - The aim of this project is to create a four-stage data pipeline using Apache Airflow to automate the collection, storage, and transcription of podcast episodes.
 
-**Episode Collection:** Episodes are fetched from a podcast feed through HTTP requests and parsed into Python data.
+- Episode Collection: Episodes are fetched from a podcast feed through HTTP requests and parsed into Python data.
 
-**Episode Loading:** New episodes are identified and inserted into a SQLite database for further processing.
+- Episode Loading: New episodes are identified and inserted into a SQLite database for further processing.
 
-**Episode Download:** The identified new episodes are downloaded from the web and stored locally as audio files.
+- Episode Download: The identified new episodes are downloaded from the web and stored locally as audio files.
 
-**Speech-to-Text Transcription:** The downloaded episodes are transcribed using a speech recognition model, and the transcriptions are stored in the database.
+- Speech-to-Text Transcription: The downloaded episodes are transcribed using a speech recognition model, and the transcriptions are stored in the database.
 
 This project provides a hands-on opportunity to build skills in data engineering, task scheduling, error handling, and using Apache Airflow.
 
