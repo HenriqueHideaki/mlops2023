@@ -1,9 +1,12 @@
 # Build an Airflow Data Pipeline to Download Podcasts
 This project aims to provide automated tools for handling and analyzing podcast episodes. Using modern technologies and advanced libraries, we seek to simplify the workflow for podcast producers and enthusiasts.
 
-<a href="https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_02/podcast_airflow.png">
+<p align="center">
+  <a href="https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_02/podcast_airflow.png">
     <img src="https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_02/podcast_airflow.png" alt="podcast airflow" width="800"/>
-</a>
+  </a>
+</p>
+
 
 
 
