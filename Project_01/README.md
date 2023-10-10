@@ -59,11 +59,15 @@ The code was encapsulated within a main function called `main()`. This is a comm
 In addition to the docstrings, explanatory comments were added in critical parts of the code to provide additional understanding about what's happening in certain code segments.
 
 These improvements not only make the code more readable for other developers but also simplify maintaining and understanding the code in the future. The code is now more organized, documented, and adheres to Python style conventions, which is essential for collaborative development and maintaining a sustainable codebase.
+
+
 <a href="https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_01/movie_recommendation_pylint_01.jpg">
     <img src="https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_01/movie_recommendation_pylint_01.jpg" alt="pylint" width="500"/>
 </a>
 
-
+<a href="https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_01/movie_recommendation_pylint_02.jpg">
+    <img src="https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_01/movie_recommendation_pylint_02.jpg" alt="pylint" width="500"/>
+</a>
 
 # Requirements and Technologies Used
 
