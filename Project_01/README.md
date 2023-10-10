@@ -40,8 +40,6 @@ By interacting with this project, users can experience how recommendation algori
 Embark on this cinematic discovery journey with the "Movie Recommendation System with Python and Pandas" and explore a world of movies that cater to your personal preferences.
 
 ## Pylint
-### Code Improvements Documentation
-
 ### Docstrings Added
 For each function, docstrings have been added. Docstrings are documentation strings embedded directly in the Python source code and provide a clear and concise description of the function's purpose. This helps other developers (and even yourself in the future) understand what each function does without having to sift through the source code.
 
