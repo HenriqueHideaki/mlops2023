@@ -1,6 +1,6 @@
 
 # Movie Recommendation System With Python And Pandas: Data Project
-!![Movie Recommendation System]([https://example.com/path/to/image.jpg](https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_01/movie_recomendation.png))
+!![Movie Recommendation System](https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_01/movie_recomendation.png)
 
 ## Author
 Henrique Hideaki Koga  
