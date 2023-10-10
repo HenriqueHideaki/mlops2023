@@ -96,8 +96,8 @@ Since the last analysis, there has been a notable improvement in the code score,
     <img src="https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_02/airflow__pylint_01.jpg" alt="airflow" width="500"/>
 </a>
 
-<a href="https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_02/airflow__pylint_01.jpg">
-    <img src="https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_02/airflow__pylint_01.jpg" alt="airflow" width="500"/>
+<a href="https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_02/airflow__pylint_03.jpg">
+    <img src="https://github.com/HenriqueHideaki/mlops2023/blob/main/Project_02/airflow__pylint_03.jpg" alt="airflow" width="500"/>
 </a>
 
 
