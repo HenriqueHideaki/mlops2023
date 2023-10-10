@@ -23,7 +23,7 @@
 - Scaling Machine Learning Models in Production
 - Case Studies in System Integration with Machine Learning Models
 
-**Projects**
+# Projects
 **Movie Recommendation System With Python And Pandas: Data Project**
   - This project involves creating a movie recommendation system using Python and Pandas. It focuses on collecting and analyzing movie data to provide personalized recommendations to users based on their preferences and viewing history.
 
